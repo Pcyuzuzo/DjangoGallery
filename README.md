@@ -23,7 +23,7 @@ This is a photo gallery web Application where you can view photos and see the de
 # **SETUP/INSTALLATION.**
 ## Prerequisites
 
-To work with Jo Photo Gallery App you need to have some few prerequisites.
+To work with Patience Photo Gallery App you need to have some few prerequisites.
 
 - Python3.6
 
@@ -38,17 +38,17 @@ To work with Jo Photo Gallery App you need to have some few prerequisites.
 - Terminal
 
 
-### **To work With Jo Photo Gallery**
+### **To work With Patience Photo Gallery**
 
 1. You will need Internet connection.
 
 2. You will also need python installed and knowledge of python
 
-3. To get to use **Jo Photo Gallery** first you need to get to the Jo Photo Gallery repository. 
+3. To get to use **Patience Photo Gallery** first you need to get to the Jo Photo Gallery repository. 
 
 Link:-> ```https://github.com/josylad/Django-Photo-Gallery```
 
-4. From there you can access Jo Photo Gallery App.
+4. From there you can access Patience Photo Gallery App.
 
 5. **Clone** the project.
 
