@@ -46,7 +46,7 @@ To work with Patience Photo Gallery App you need to have some few prerequisites.
 
 3. To get to use **Patience Photo Gallery** first you need to get to the Jo Photo Gallery repository. 
 
-Link:-> ```https://github.com/josylad/Django-Photo-Gallery```
+Link:-> ```https://github.com/Pcyuzuzo/DjangoGallery```
 
 4. From there you can access Patience Photo Gallery App.
 
